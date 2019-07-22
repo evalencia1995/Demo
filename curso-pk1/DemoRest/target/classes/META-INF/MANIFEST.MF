@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DemoRest
+Implementation-Version: 1
+Built-By: agarcia
+Implementation-Vendor-Id: com.mitocode
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/DemoRest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
